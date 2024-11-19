@@ -1,0 +1,16 @@
+
+
+.card-T{
+margin-bottom: 10px;
+width: 18rem;
+/* style={{ width:'18rem' }} */
+/* margin-right: 10px; */
+}
+
+
+@media(min-width:768px){
+    .card-T{
+        padding: 0px;
+        margin: 20px;
+    }
+}

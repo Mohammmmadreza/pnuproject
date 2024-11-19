@@ -1,0 +1,66 @@
+
+
+/* GENERAL */
+
+.newscontainer{
+    width: auto;
+    border: none;
+    border-radius: 8px;
+height: auto;
+margin-right: 2px;
+margin-left: 2px;
+margin-bottom: 5px;;
+background-color: white;
+}
+.img-c{
+border-radius: 8px;
+}
+.img-news{
+width: 100%;
+height: 200px;
+border-radius:8px;
+}
+.div-I{
+    direction: ltr;
+    padding: 5px;
+}
+.dislike-i{
+    font-size:large;
+    padding-left: 5px;
+    cursor: pointer;
+}
+.like-i{
+    font-size: large;
+    cursor: pointer;
+}
+.click-dis{
+    color: red;
+}
+.like-click{
+    color: blue;
+    
+}
+
+.textcontainer > p{
+padding: 5px;
+}
+/* TABLET
+@media(min-width:768px){
+
+    .newscontainer{
+        width: 200px;
+    }
+}
+
+/* DESKTOP */
+/* @media(min-width:1024px) {
+    .newscontainer{
+        width: 300px;
+    }
+}
+@media(min-width:1440px) {
+    .newscontainer{
+        width:425px;
+        height: 415;
+    }
+}  */

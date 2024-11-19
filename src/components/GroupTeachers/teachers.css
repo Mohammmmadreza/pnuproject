@@ -1,0 +1,12 @@
+
+    
+    .container-teachers{
+        display:flex;
+        flex-wrap: wrap;
+        margin: 40px;
+        
+    }
+    .Teach-box{
+        float: left;
+        margin: 40px;
+    }

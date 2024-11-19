@@ -1,0 +1,34 @@
+.header{
+    /* border: 8px solid black; */
+  
+    /* background-color: #541d85;
+    background-image: linear-gradient(#541d85,#975fc7); */
+    width: 100%;
+    height: 100px;
+    color: rgb(20, 22, 5);
+    font-family:B elham,B esfehan ,sahel;
+    padding-top: 10px;
+    background-color: rgb(102, 107, 106);
+    
+}
+.h1title{
+    text-align: center;
+    padding: 12px;
+}
+@media(min-width:1440px) {
+    .header{
+        /* border: 8px solid black; */
+        box-sizing:border-box;
+        border: none;
+        border-radius: 5px;
+        /* background-color: #541d85;
+        background-image: linear-gradient(#541d85,#975fc7); */
+        width: 99%;
+        height: 100px;
+        color: rgb(20, 22, 5);
+        font-family:B elham,B esfehan ,sahel;
+        padding-top: 10px;
+        background-color: rgb(102, 107, 106);
+        margin: 8px;
+    }
+}

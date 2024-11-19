@@ -1,0 +1,43 @@
+.flex-column{
+    width: 100%;
+    background-color: #333;;
+    
+}
+.telegram{
+    font-size:xx-large;
+   
+}
+.instagram{
+    font-size: xx-large;
+    color: brown;
+}
+.address{
+    color: black;
+}
+.phone{
+    font-size: xx-large;
+    color: green;
+}
+.s-phone{
+    font-size: large;
+    color: #ddd;
+    padding: 10px;
+}
+.location{
+    font-size: xx-large;
+    color: black;
+}
+.s-address{
+    color: #ddd;
+    padding: 10px;
+}
+@media(min-width:1440px){
+    .flex-column {
+        width: 99%;
+        border: none;
+        border-radius: 5px;
+        background-color: #333;;
+        box-sizing: border-box;
+        margin: 8px;
+    }
+}
